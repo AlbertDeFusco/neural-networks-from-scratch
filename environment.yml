@@ -1,0 +1,6 @@
+name: dl_from_scratch
+dependencies:
+    - jupyter
+    - numpy=1.14
+    - scikit-learn
+    - matplotlib
