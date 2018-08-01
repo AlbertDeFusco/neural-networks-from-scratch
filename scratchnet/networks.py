@@ -101,3 +101,5 @@ class Network(object):
             cost = loss(y, t)
             history.append(cost)
         return history
+
+    fit = train

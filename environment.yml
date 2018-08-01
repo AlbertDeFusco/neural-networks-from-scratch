@@ -5,3 +5,4 @@ dependencies:
     - numpy=1.14
     - scikit-learn
     - matplotlib
+    - holoviews
