@@ -1,5 +1,6 @@
-name: dl_from_scratch
+name: nn_from_scratch
 dependencies:
+    - python=3.6
     - jupyter
     - numpy=1.14
     - scikit-learn
