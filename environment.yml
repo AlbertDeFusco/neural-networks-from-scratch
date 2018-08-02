@@ -1,4 +1,7 @@
 name: nn_from_scratch
+channels:
+    - defaults
+    - defusco
 dependencies:
     - python=3.6
     - jupyter
@@ -6,3 +9,4 @@ dependencies:
     - scikit-learn
     - matplotlib
     - holoviews
+    - scratchnet
