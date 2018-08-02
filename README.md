@@ -2,6 +2,8 @@
 
 Understanding Deep Learning by building it ourselves.
 
+We'll use my [ScratchNet](https://github.com/AlbertDeFusco/ScratchNet) project to build and train neural networks.
+
 ## Setup
 
 1. Download the free [Anaconda Distribution](https://www.anaconda.com/download)
