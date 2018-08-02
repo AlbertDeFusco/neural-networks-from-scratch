@@ -14,8 +14,8 @@ We'll use my [ScratchNet](https://github.com/AlbertDeFusco/ScratchNet) project t
     * Or on the command line
 
 ```
-> git clone https://github.com/AlbertDeFusco/ScratchNet.git
-> cd ScratchNet
+> git clone https://github.com/AlbertDeFusco/neural-networks-from-scratch.git
+> cd neural-networks-from-scratch
 > conda env create
 > conda activate nn_from_scratch
 > jupyter notebook
