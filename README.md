@@ -2,6 +2,8 @@
 
 Understanding Deep Learning by building it ourselves.
 
+We'll use my [ScratchNet](https://github.com/AlbertDeFusco/ScratchNet) project to build and train neural networks.
+
 ## Setup
 
 1. Download the free [Anaconda Distribution](https://www.anaconda.com/download)
@@ -12,8 +14,8 @@ Understanding Deep Learning by building it ourselves.
     * Or on the command line
 
 ```
-> git clone https://github.com/AlbertDeFusco/ScratchNet.git
-> cd ScratchNet
+> git clone https://github.com/AlbertDeFusco/neural-networks-from-scratch.git
+> cd neural-networks-from-scratch
 > conda env create
 > conda activate nn_from_scratch
 > jupyter notebook
